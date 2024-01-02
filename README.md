@@ -3,7 +3,7 @@
 <p align="center">I love solving big challenges using technology. <br><br>I'm <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I'm a <strong>beginning full stack developer</strong> focused on web development..</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pablomendes-s&theme=tokyonight&hide_border=falso&date_format=M%20j%5B%2C%20Y%5D&card_width=550&type=png" alt="GitHub Streak" /></a>
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
  </div>
  
