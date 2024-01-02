@@ -4,7 +4,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pablomendes-s&theme=tokyonight&hide_border=falso&date_format=M%20j%5B%2C%20Y%5D&card_width=550&type=png" alt="GitHub Streak" /></a>
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+
  </div>
  
  &nbsp;
