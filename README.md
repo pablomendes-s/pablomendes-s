@@ -1,4 +1,4 @@
-<h1>Hi, I'm Pablo!</h1>
+<h1>Hi, I'm Pablo! :wave: </h1>
 
 <p align="center">I love solving big challenges using technology. <br><br>I'm <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I'm a <strong>beginning full stack developer</strong> focused on web development..</p>&nbsp;
 
