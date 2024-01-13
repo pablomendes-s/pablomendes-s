@@ -1,14 +1,8 @@
 <h1>Hi, I'm Pablo! :wave: </h1>
 
 <p>I love solving big challenges using technology.I'm <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I'm a <strong>beginning full stack developer</strong> focused on web development..</p>&nbsp;
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pablomendes-s&theme=tokyonight&hide_border=falso&date_format=M%20j%5B%2C%20Y%5D&card_width=550&type=png" alt="GitHub Streak" /></a>
-
  </div>
  
- &nbsp;
- 
-
 ## My Skills
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
