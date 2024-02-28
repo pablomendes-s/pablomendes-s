@@ -26,7 +26,10 @@
 </a>
 <a href = "mailto: pablomendes25@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/pablomendes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+</div>
+<a href="https://wakatime.com/@018d6b95-0dc1-484e-b2c2-ded37410f186"><img src="https://wakatime.com/badge/user/018d6b95-0dc1-484e-b2c2-ded37410f186.svg" alt="Total time coded since Feb 2 2024" /></a>
+
+</div>
  
 
 
